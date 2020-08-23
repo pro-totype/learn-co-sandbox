@@ -1,2 +1,18 @@
 git add .
-adds all files
+adds all files to a to be committed list
+
+git commit -m " first commit "
+
+git remote add origin https://github.com/pro-totype/apex_characters.git
+
+git push -u origin master (only for the first push)
+
+git push origin master (for the rest)
+
+--------
+
+Role > Character list > Bio || Skills > Return to Role Selection
+
+-CLI class - dealing with the things showing onto terminal
+-API class - deal with all api things
+-Events class - deal with all events 
