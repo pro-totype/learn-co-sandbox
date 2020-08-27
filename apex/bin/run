@@ -1,6 +1,6 @@
-#!/usr/bin/env ruby
+I.new#!/usr/bin/env ruby
 
 require './apex/lib/environment'
 
 
-CLI.new.start 
+cli.new.start
