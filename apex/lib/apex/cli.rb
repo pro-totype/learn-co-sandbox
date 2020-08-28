@@ -12,7 +12,22 @@ class CLI
   end
 
   def defense 
-    puts 
+    puts defense_character_list
+    puts "Select aspect: Real Name, Bio, "
+  end
+
+  def offense 
+    puts offense_character_list
+  end
+  
+  def recon 
+    puts recon_character_list
+  end
+  
+  def support 
+    puts support_character_list
+  end
+  
 
 end
 
