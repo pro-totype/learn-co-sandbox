@@ -3,4 +3,4 @@
 require './apex/lib/environment'
 
 
-cli.new.start
+CLI.new.start
