@@ -4,4 +4,4 @@ require './apex/lib/environment'
 
 
 CLI.new.start
-CLI.defense
+CLI.new.defense
