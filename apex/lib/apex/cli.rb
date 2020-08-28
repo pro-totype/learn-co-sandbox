@@ -13,7 +13,7 @@ class CLI
 
   def defense 
     puts defense_character_list
-    puts "Select aspect: Real Name, Bio, "
+    puts "Select aspect: Real Name, Bio, Tactical Ability, Passive Ability, Ultimate Ability"
   end
 
   def offense 
