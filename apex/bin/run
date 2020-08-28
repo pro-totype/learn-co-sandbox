@@ -1,4 +1,4 @@
-I.new#!/usr/bin/env ruby
+new#!/usr/bin/env ruby
 
 require './apex/lib/environment'
 
