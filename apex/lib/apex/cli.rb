@@ -11,6 +11,9 @@ class CLI
     role = gets.chomp 
   end
 
+  def defense 
+    puts 
+
 end
 
   
