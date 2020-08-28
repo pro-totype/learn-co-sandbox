@@ -4,7 +4,6 @@ class CLI
     puts "Welcome to the Apex Character Database"
     puts "Please select a character role"
   end
-end
 
   def charcter_class
     puts "Choose Character Role: Defense, Offense, Recon, Support"
@@ -12,6 +11,6 @@ end
     role = gets.chomp 
   end
 
-
+end
 
   
